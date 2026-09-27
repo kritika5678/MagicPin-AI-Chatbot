@@ -20,6 +20,14 @@ app = FastAPI(title="Vera Merchant AI Assistant", version=os.getenv("VERA_VERSIO
 store = ContextStore()
 
 
+@app.get("/")
+async def root():
+    return {
+        "name": "Magicpin Vera AI",
+        "status": "running",
+        "version": "1.0.0"
+    }
+
 def now_iso() -> str:
     return datetime.now(timezone.utc).isoformat()
 
