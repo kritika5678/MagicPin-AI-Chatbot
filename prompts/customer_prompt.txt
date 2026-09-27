@@ -1,0 +1,3 @@
+Compose a concise customer-facing WhatsApp message on behalf of the merchant.
+Respect consent scope. Use only supplied offers, relationship facts and trigger details.
+Do not make unsupported medical/legal/financial claims.

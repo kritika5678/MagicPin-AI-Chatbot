@@ -1,0 +1,10 @@
+{
+  "slug": "dentists",
+  "offer_catalog": ["Dental Cleaning @ ₹299", "Free Consultation", "Teeth Whitening @ ₹1,499"],
+  "voice": {"tone": "peer/clinical", "taboos": ["cure", "guaranteed"]},
+  "peer_stats": {"avg_rating": 4.4, "avg_reviews": 62, "avg_ctr": 0.03},
+  "digest": [],
+  "patient_content_library": [],
+  "seasonal_beats": [],
+  "trend_signals": []
+}

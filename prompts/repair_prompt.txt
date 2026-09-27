@@ -1,0 +1,6 @@
+Rewrite the draft using only verified context.
+Fix every listed validation error.
+Preserve supported facts and category voice.
+Do not add new facts.
+Keep exactly one primary CTA where required.
+Return JSON only.

@@ -1,0 +1,10 @@
+{
+  "id": "trg_demo_recall",
+  "scope": "customer",
+  "kind": "recall_due",
+  "source": "internal",
+  "payload": {"merchant_id": "m_001", "customer_id": "c_001"},
+  "urgency": 3,
+  "suppression_key": "recall:m_001:c_001:2026-10",
+  "expires_at": "2026-10-15T00:00:00Z"
+}

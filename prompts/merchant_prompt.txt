@@ -1,0 +1,2 @@
+Compose a concise WhatsApp message to the merchant using the supplied strategy and verified facts.
+Prioritize specificity and trigger relevance. Match the merchant's language preference.

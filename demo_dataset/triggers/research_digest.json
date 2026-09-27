@@ -1,0 +1,19 @@
+{
+  "id": "trg_demo_research",
+  "scope": "merchant",
+  "kind": "research_digest",
+  "source": "external",
+  "payload": {
+    "merchant_id": "m_001",
+    "category": "dentists",
+    "top_item": {
+      "title": "3-mo fluoride recall cuts caries recurrence 38% better than 6-mo",
+      "source": "JIDA Oct 2026, p.14",
+      "trial_n": 2100,
+      "patient_segment": "high-risk adults"
+    }
+  },
+  "urgency": 2,
+  "suppression_key": "research:dentists:2026-W17",
+  "expires_at": "2026-10-03T00:00:00Z"
+}
